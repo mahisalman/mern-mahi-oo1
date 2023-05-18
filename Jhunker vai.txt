@@ -1,0 +1,275 @@
+3-4
+Git push and pull
+How to push the edited update to git
+
+git add .
+git commit -m "Second commit"
+git branch -M main
+git push -u origin main
+
+3-3
+Opening visual studio code
+open that folder hase created in desktop
+
+then at visual studio, click at terminal
+select 1: powershell
+then select bash
+write > git --version
+forchecking that working fine or not ?
+
+now creating a new file at visual studio named - index.html
+
+after that at terminal
+executed
+git init
+
+the write
+$ git add .
+
+Steps from 1
+
+git config --global user.email "mahi.salman@gmail.com"
+git config --global user.name "mahisalman"
+
+echo "# mern-mahi-oo1" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+
+git remote add origin https://github.com/mahisalman/mern-mahi-oo1.git
+git push -u origin main
+
+authentication with password
+======================
+
+git necessary data
+
+
+Quick setup — if you’ve done this kind of thing before
+or
+
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
+…or create a new repository on the command line
+
+echo "# mern-mahi-oo1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mahisalman/mern-mahi-oo1.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/mahisalman/mern-mahi-oo1.git
+git branch -M main
+git push -u origin main
+
+
+
+---------------=======================================================
+
+3-2
+install - git, github, repository
+
+1.
+google -> search -> Git HCM
+Download for windows
+
+windows > cmd > type ->
+git --version
+
+2.
+Github.com
+mahi.salman@gmail.com
+login
+
+https://github.com/mahisalman/mern-mahi-oo1.git
+
+…or create a new repository on the command line
+
+echo "# mern-mahi-oo1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mahisalman/mern-mahi-oo1.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/mahisalman/mern-mahi-oo1.git
+git branch -M main
+git push -u origin main
+
+…or import code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+
+3-1
+Github
+What is github
+
+
+==============================================================================================================
+
+
+2-3
+CSS
+background-color: sandybrown;
+
+
+
+
+2-2
+css at header 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>CSS Cascading Style Sheet</title>
+    <style>
+        h1{
+            color: rgba(165, 42, 42, 0.907);
+        }
+        p{
+            color:chartreuse
+        }
+    </style>
+</head>
+<body>
+    <h1>This is a heading</h1>
+    <p>Here is some data realed to heading 1</p>
+    <h1>This is another heading</h1>
+    <p>Here is some data realed to heading 2</p>
+</body>
+</html>
+
+
+=========================================================================
+Chapter 1
+HTML
+
+1-10
+HTML summery
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p></p>
+    <a href=""></a>
+    <img src="" alt="">
+
+    <ol>
+        <li></li>
+    </ol>
+
+    <strong></strong>
+    <b></b>
+
+    <div>
+        <h1></h1>
+        <p></p>
+    </div>
+
+    <section></section>
+    
+</body>
+</html>
+
+
+1-9
+HTML Structure
+
+! then Tab
+Emmet Abbreviation
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+<html>
+	<Head>
+
+	</Head>
+
+	<body>
+
+	</body>
+	
+	<footer>
+
+	</footer>
+</html>
+
+
+1-8
+HTML tag
+<button>Click Me</button>
+<input text=""></input>
+<nav></nav>
+<span style="color:Blue">Some text </span>
+Division
+<div></div>
+<section></section>
+
+
+1-7
+container tar
+ordered list
+<ol>
+	<li></li>
+	<li></li>
+	<li></li>
+</ol>
+
+unordered list
+<ul>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+
+1-6
+attribute tag
+Display Image
+<img src=".jpg" alt=""> </img>
+<img src=".png" alt=""> </img>
+
+1-5
+Basic tag
+Placing a link
+<a href=""> </a>
+
+1-4
+<H1></H1>
+<H2></H2>
+<H3></H3>
+<H4></H4>
+<H5></H5>
+<H6></H6>
+
+1-3
+<p></p>
+<b></b>
+<strong></strong>
