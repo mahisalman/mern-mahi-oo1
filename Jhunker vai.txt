@@ -13,6 +13,9 @@ git push -u origin main
 
 git pull
 
+for New PC - 
+
+git pull https://github.com/mahisalman/mern-mahi-oo1.git
 
 3-3
 Opening visual studio code
