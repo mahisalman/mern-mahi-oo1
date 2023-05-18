@@ -2,10 +2,14 @@
 Git push and pull
 How to push the edited update to git
 
+-- for push to git
+
 git add .
 git commit -m "Second commit"
 git branch -M main
 git push -u origin main
+
+-- for 
 
 3-3
 Opening visual studio code
