@@ -9,7 +9,10 @@ git commit -m "Second commit"
 git branch -M main
 git push -u origin main
 
--- for 
+-- for pull from git
+
+git pull
+
 
 3-3
 Opening visual studio code
