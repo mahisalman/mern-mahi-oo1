@@ -4,6 +4,8 @@ How to push the edited update to git
 
 -- for push to git
 
+
+
 git add .
 git commit -m "Second commit"
 git branch -M main
@@ -12,6 +14,12 @@ git push -u origin main
 -- for pull from git
 
 git pull
+
+for New PC - 
+
+git init
+
+git pull https://github.com/mahisalman/mern-mahi-oo1.git
 
 
 3-3
